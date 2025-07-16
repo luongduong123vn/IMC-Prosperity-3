@@ -1,4 +1,5 @@
 Submission for IMC Prosperity 3. Team rank top 200 globally and top 2 in Vietnam
+
 The IMC Prosperity trading competition is a global, remote-first challenge hosted by the proprietary trading firm IMC. It is designed to simulate the fast-paced and complex world of quantitative and algorithmic trading, attracting thousands of student participants from around the globe. The competition is framed within a playful narrative of bringing prosperity to a virtual island archipelago by accumulating "SeaShells," the in-game currency.
 
 Key Aspects of the Competition:
